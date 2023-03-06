@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/kekoss/advanced_html-css-1/issues"
   },
-  "homepage": "https://github.com/kekoss/advanced_html-css-1#readme",
+  "homepage": "https://github.com/kekoss/advanced_html-css-1.git",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "moment": "^2.29.4"
